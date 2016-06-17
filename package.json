@@ -1,8 +1,8 @@
 {
-  "name": "cloud-slack-bot-example",
+  "name": "Wall-E",
   "version": "1.0.0",
-  "description": "A sample Slack Botkit bot.",
-  "main": "kittenbot.js",
+  "description": "Wall-E slackbot",
+  "main": "wall-e.js",
   "dependencies": {
     "botkit": "0.1.1"
   },
@@ -14,8 +14,8 @@
   },
    " repository": {
     "type": "git",
-    "url": "https://github.com/googlecodelabs/cloud-slack-bot.git"
+    "url": "https://github.com/purplepirate/cloud-wall-e-bot.git"
   },
-  "author": "Google Inc.",
+  "author": "Dalton Kennedy",
   "license": "Apache-2.0"
 }
