@@ -20,6 +20,6 @@ WORKDIR /src
 RUN npm install
 
 # Bundle app source.
-COPY kittenbot.js /src
+COPY wall-e.js /src
 
-CMD ["node", "/src/kittenbot.js"]
+CMD ["node", "/src/wall-e.js"]
